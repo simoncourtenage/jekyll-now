@@ -21,17 +21,17 @@ Contact me at: [courtenage@gmail.com](mailto:courtenage@gmail.com)
 
 ### Open Source Projects
 ---
-A full list can be found on my [github profile](https://github.com/simoncourtenage).  My main OS project is [QuantHas](https://github.com/simoncourtenage/quanthas).
+A full list can be found on my [github profile](https://github.com/simoncourtenage).  My main OS project is [QuantHas](https://github.com/simoncourtenage/quanthas), which aims to use Haskell to re-implement the open source quantitative finance library QuantLib (written in C++).
 
 ### Work Experience
 ---
 
 ###### 03/2000 – to date Principal Lecturer at University of Westminster
 
-I teach advanced topics in web development to UG students, and object-oriented software development to PG students, as well project supervision to UG and PG students. I am also course leader for the MSc Advanced Software Engineering degree.
+I teach advanced topics in web development to UG students, and object-oriented software development to PG students, as well project supervision to UG and PG students. I am also course leader for the MSc Advanced Software Engineering degree. My research interests have covered distributed event-based systems (research funding from UK research council 2003-05) and typed-based static analysis of functional programming languages (see education below).
 
 ###### 02/2000-03/2000 Senior software engineer and team leader at Reuters PLC
-I was employed on a fixed 1-month freelance contract to lead a team at Reuters tasked with developing e-commerce proofs-of-concept for the various business areas within Reuters.  This was part of a very high profile initiative within the company.  My role was, on the basis of my technical expertise and experience, to set up the technical infrastructure for the team, liasing with senior members of Reuters’ own research division, as well as advise the project manager on team recruitment and initiate development on a key proof-of-concept ecommerce prototype for the images division of Reuters.
+I was employed on a fixed 1-month freelance contract to lead a team at Reuters tasked with developing e-commerce proofs-of-concept for the various business areas within Reuters.  This was part of a high profile initiative within the company.  My role was, on the basis of my technical expertise and experience, to set up the technical infrastructure for the team, liasing with senior members of Reuters’ own research division, as well as advise the project manager on team recruitment and initiate development on a key proof-of-concept ecommerce prototype for the images division of Reuters.
 
 ###### 08/1999 – 02/2000 Senior software developer (team leader) at Hyperlink
 At Hyperlink, I was quickly promoted from a C++ developer role to being technical lead developer of the company’s most valuable project, a price comparison website they had developed for ASDA.  This was a large and technically complex project, written using C++ and XML, and which used a cluster of load-balanced servers to perform real-time screen-scraping of partner ecommerce websites to deliver prices to customers for comparison.  I led a team of 10-13 developers, and was responsible for key development tasks, producing the development plan, advising the project manager, and liasing and consulting with the external client on technical requirements for the site.
