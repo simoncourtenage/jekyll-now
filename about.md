@@ -5,7 +5,7 @@ permalink: /about/
 
 ### About Me
 ---
-I am a principal lecturer in Computer Science at the University of Westminster with interests in distributed event-based systems and functional programming languages and type systems.  I received my PhD on type-based static analysis of functional programming languages from University College London (UCL) in 1995. Before working as a lecturer, I really enjoyed working on software development and working as part of a development team. In my last two positions, I was team and technical lead.  Now, in addition to my day job, I continue developing software by working on open source projects.
+I am a [principal lecturer](http://users.wmin.ac.uk/~courtes/) in Computer Science at the University of Westminster with interests in distributed event-based systems and functional programming languages and type systems.  I received my PhD on type-based static analysis of functional programming languages from University College London (UCL) in 1995. Before working as a lecturer, I really enjoyed working on software development and working as part of a development team. In my last two positions, I was team and technical lead.  Now, in addition to my day job, I continue developing software by working on open source projects.
 
 Contact me at: [courtenage@gmail.com](mailto:courtenage@gmail.com)
 
