@@ -29,18 +29,19 @@ So here is my solution.
 ```
 @app.route('/echoname',methods=["POST"],content_types=['application/x-www-form-urlencoded','application/json'],cors=True)
 def echonm():
+    name = ''
     if ('content-type' in app.current_request.headers) :
         contenthdr = app.current_request.headers['content-type']
         if contenthdr == 'application/json' :
             rdata = app.current_request.json_body
-            text = rdata.get('name')
+            name = rdata.get('name')
         else :
             rdata = parse_qs(app.current_request.raw_body.decode())
-            text = rdata.get('name')[0]
+            name = rdata.get('name')[0]
     else :
         # default content-type
         rdata = parse_qs(app.current_request.raw_body.decode())
-        text = rdata.get('name')[0]
+        name = rdata.get('name')[0]
     resp = {}
     resp["name"] = name
     return resp
