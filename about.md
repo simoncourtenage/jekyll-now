@@ -12,8 +12,8 @@ Contact me at: [courtenage@gmail.com](mailto:courtenage@gmail.com)
 ### Key Skills
 ---
 
-- Programming languages: C++ (H, but a bit rusty!), Haskell (I+), Python (I), Javascript (I), PHP (H)
-- Databases: MySQL (I), PostgresSQL (I)
+- Programming languages: C++ (H, but a bit rusty!), Haskell (I), Python (I-), Javascript (I-), PHP (H)
+- Databases: MySQL (I), PostgresSQL (I-)
 - Web Frameworks: Django/Python (L+), Backbone/Javascript (I), Laravel/PHP (I), CodeIgniter/PHP (H)
 
 
